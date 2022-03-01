@@ -10,7 +10,7 @@ But in modern times, it is often used as means of highlighting the accomplishmen
 
 In this project, we will analyze presidents' State of the Union addresses from George Washington in 1790 to Joe Biden in 2022. The goal will be to identify the main topics of each address, and explore whether meaningful legislative action was subsequently taken on those topics. 
 
-Our hypthetical audience for this project would be any organization with a vested interest in understanding Congressional priorites-- investors, lobbyists, trade associations and unions, etc.
+Our hypothetical audience for this project is executives at any organization with a business stake in understanding Congressional priorites-- speculators, lobbyists, trade associations and unions, etc.
 
 #### Data Description:
 - The Data for this project was sourced from [Kaggle](https://www.kaggle.com/jyronw/us-state-of-the-union-addresses-1790-2019), with the most recent SOTU address by President Biden being added manually.
