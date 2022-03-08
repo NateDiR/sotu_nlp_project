@@ -4,7 +4,7 @@ The goal of this project is to distill the main topics of each State of the Unio
 
 [MVP Script](mvp_script.ipynb)
 
-As a first step, I preprocessed the data using SpaCy, CountVectorized the data with sklearn, did some dimensionality reduction with TruncatedSVD, and pulled out the top 10 topics:
+As an initial pass, I preprocessed the data using SpaCy, CountVectorized the data with sklearn, did some dimensionality reduction with TruncatedSVD, and pulled out the top 10 topics:
 
 __Topic  0:__
 *government, year, congress, united, states, country, state, great, law, people*
@@ -37,7 +37,7 @@ __Topic  9:__
 *world, government, nof, nthe, american, free, shall, nand, nto, great*
 
 
-The results were largely meaningless. I need to re-think my approach.
+The results were vague, with a lot of repetition. In practical terms, this is largely meaningless. I need to re-think my approach.
 
 - __Text Preprocessing:__ I should try adding in more custom stop words, and maybe cleaning up the dataset using regex for errors like 'nto' and 'nof'.
 
@@ -47,4 +47,4 @@ The results were largely meaningless. I need to re-think my approach.
 
 - __Results:__ Instead of 10 topics overall I should be producing 3-5 topics on a per-docoument basis so they are more discrete.
 
-A lot of work to be done.
+A lot of work to be done here. But it may also be that presidents are prone to generalities in their State of the Union addresses, making it hard to find signal in a lot of noise.
