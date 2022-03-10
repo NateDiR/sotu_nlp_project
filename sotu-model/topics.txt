@@ -1,0 +1,10 @@
+0:job,program,today,goal,economic,budget,help,~house representatives,basic,~representatives
+1:manufacturing,production,crop,present law,advocate,widely,farmer,requirement,business,import
+2:american,successor,tenure,america,ask,set apart,genius,example,tenure office,follow
+3:cent,currency,expenditure,fiscal,tariff,year end june,interior,fiscal year end,treasury,end june
+4:mexico,civil,indian,protest,constitute,report secretary navy,class,compose,tribunal,complaint
+5:china,rule,russia,germany,navy,england,japanese,army,provide appointment,cuba
+6:research,long term,affordable,big,energy,street,cancer,help people,health,renewable
+7:crime,safe,police,communism,pay,teach,gun,half,bring cost,prison
+8:student,school,education,college,deficit,university,young,enforcement,chamber,record
+9:interstate,railway,bridge,road,highway,company,criminal,department justice,strongly,municipal
