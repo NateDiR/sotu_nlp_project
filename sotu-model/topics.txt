@@ -1,10 +1,10 @@
-0:job,program,today,goal,economic,budget,help,~house representatives,basic,~representatives
-1:manufacturing,production,crop,present law,advocate,widely,farmer,requirement,business,import
-2:american,successor,tenure,america,ask,set apart,genius,example,tenure office,follow
-3:cent,currency,expenditure,fiscal,tariff,year end june,interior,fiscal year end,treasury,end june
-4:mexico,civil,indian,protest,constitute,report secretary navy,class,compose,tribunal,complaint
-5:china,rule,russia,germany,navy,england,japanese,army,provide appointment,cuba
-6:research,long term,affordable,big,energy,street,cancer,help people,health,renewable
-7:crime,safe,police,communism,pay,teach,gun,half,bring cost,prison
-8:student,school,education,college,deficit,university,young,enforcement,chamber,record
-9:interstate,railway,bridge,road,highway,company,criminal,department justice,strongly,municipal
+0:program,job,economic,today,budget,help,goal,ahead,basic,worker
+1:crop,farmer,agriculture,farm,method,production,business,department commerce,type,interstate commerce
+2:constitution,outbreak,federal,supreme,amendment,service law,countryman,election,money order,total
+3:cent,tariff,fiscal,expenditure,currency,treasury,end june,suggestion,postmaster,fiscal end
+4:mexico,civil,protest,movement,immigration,slight,indian,citizenship,purely,lay senate
+5:cuba,navy,army,japanese,consent,france,spain,rico,officer,panama
+6:research,technology,decade,achieve,challenge,environment,small business,cancer,leader,big
+7:court,hold,dangerous,perpetuity,commissioners district,department end,british north,fictitious,department end june,end june estimate
+8:school,student,education,college,university,math,street,teacher,medicare,tax credit
+9:interstate,railway,criminal,highway,commission appoint,colorado,consular service,naturalization,sign,bridge
